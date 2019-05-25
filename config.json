@@ -1,0 +1,16 @@
+{
+	"mqtt": {
+		"url": "mqtt://localhost"
+	},
+	"database": {
+		"url": "http://127.0.0.1:8086/dataghost",
+		"nodes": {
+			"dht": {
+				"fieldsSchema": {
+					"temperature": "f",
+					"humidity": "f"
+				}
+			}
+		}
+	}
+}

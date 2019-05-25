@@ -1,0 +1,16 @@
+{
+  "name": "operations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "influxdb-nodejs": "^3.0.0",
+    "mqtt": "^2.18.8"
+  }
+}
